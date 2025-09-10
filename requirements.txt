@@ -1,6 +1,0 @@
-
-streamlit>=1.45
-numpy>=2.0
-pandas>=2.2.3
-scikit-learn>=1.6
-pydeck>=0.8
